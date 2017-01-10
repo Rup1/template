@@ -1,8 +1,8 @@
 body {
-  background-color: #f2b500;
+  background-color: #f2c800;
 }
 
 h1:hover {
-  -webkit-transition: color 1s ease;
-  transition: color 1s ease;
+  -webkit-transition: color 1s;
+  transition: color 1s;
 }
