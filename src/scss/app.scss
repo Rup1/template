@@ -1,9 +1,10 @@
-$black: #f2c800;
+$black: #111;
 
 body {
   background-color: $black;
 }
 
 h1:hover{
+  color: white;
   transition: color 1s;
 }

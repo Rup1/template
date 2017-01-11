@@ -6757,10 +6757,11 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 body {
-  background-color: #f2c800;
+  background-color: #111;
 }
 
 h1:hover {
+  color: white;
   -webkit-transition: color 1s;
   transition: color 1s;
 }
